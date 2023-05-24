@@ -4,7 +4,6 @@ about: bug 발생 시 작성해주세요.
 title: "[BUG]"
 labels: bug
 assignees: ARONGLEE
-
 ---
 
 ### 🤷 Describe the bug
